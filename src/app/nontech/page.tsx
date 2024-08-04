@@ -8,7 +8,7 @@ export default function Page() {
   return (
     <>
       <Navbar />
-      <div className="h-[20rem] w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md">
+      <div className="h-[20rem] w-full flex flex-col items-center justify-center overflow-hidden rounded-md">
         <h1 className="md:text-7xl text-3xl lg:text-5xl font-semibold text-center text-white relative z-20 font-poppins">
           Non-Technical
         </h1>
@@ -32,7 +32,7 @@ export default function Page() {
           <div className="absolute inset-0 w-full h-full bg-black [mask-image:radial-gradient(350px_200px_at_top,transparent_20%,white)]"></div>
         </div>
         <div className="-mt-20 text-lg md:text-2xl text-gray-400 mx-auto w-full sm:w-1/2 text-center font-serif z-50">
-          <i>"Beyond the Code: Where Creativity Meets Curiosity"</i>
+          <i>&quot;Beyond the Code: Where Creativity Meets Curiosity&quot;</i>
         </div>
       </div>
       <Music />

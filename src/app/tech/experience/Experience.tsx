@@ -39,13 +39,13 @@ export default function Experience() {
       <div className="relative flex flex-col items-start">
         {experiences.map((exp, index) => (
           <div key={index} className="relative mb-12 p-6 text-white">
-            {index < experiences.length - 1 && (
+            {/* {index < experiences.length - 1 && (
               <div
                 className={`absolute top-1/2 left-4 w-[2px] bg-gray-500 ${
                   index === experiences.length - 2 ? "h-1/2" : "h-full"
                 }`}
               ></div>
-            )}
+            )} */}
             <div className="flex items-start">
               <div className="w-4 h-4 bg-blue-500 rounded-full border-2 border-gray-800"></div>
               <div className="ml-4">

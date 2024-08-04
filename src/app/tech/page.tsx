@@ -18,7 +18,7 @@ export default function Page() {
           <i>"Transforming caffeine into code, one innovation at a time!"</i>
         </div>
       </div> */}
-      <div className="h-[20rem] w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md">
+      <div className="h-[20rem] w-full flex flex-col items-center justify-center overflow-hidden rounded-md">
         <h1 className="md:text-7xl text-3xl lg:text-5xl font-semibold text-center text-white relative z-20 font-poppins">
           Technical
         </h1>
