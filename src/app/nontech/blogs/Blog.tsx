@@ -68,7 +68,7 @@ export default function Blogs() {
             </h2>
             <p className="text-gray-300 text-lg mt-4">
               Occasionally, I find myself diving into the world of writing.
-              Though it’s a rare pursuit, it’s become a fascinating hobby where
+              Though it's a rare pursuit, it's become a fascinating hobby where
               I explore various topics and share my thoughts.
             </p>
           </div>

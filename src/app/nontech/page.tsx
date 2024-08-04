@@ -8,14 +8,6 @@ export default function Page() {
   return (
     <>
       <Navbar />
-      {/* <div className="flex flex-col text-center w-full mb-14 mt-28">
-        <h1 className="sm:text-6xl mb-5 text-2xl bg-gradient-to-r from-violet-900 via-violet-400 to-violet-200 inline-block text-transparent bg-clip-text font-semibold title-font font-poppins">
-          Non-Technical
-        </h1>
-        <div className="mt-4 text-lg md:text-2xl text-gray-400 mx-auto w-full sm:w-1/2 text-center ">
-          <i>"Beyond the Code: Where Creativity Meets Curiosity"</i>
-        </div>
-      </div> */}
       <div className="h-[20rem] w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md">
         <h1 className="md:text-7xl text-3xl lg:text-5xl font-semibold text-center text-white relative z-20 font-poppins">
           Non-Technical
