@@ -71,8 +71,8 @@ export default function Art() {
               Digital Illustration
             </h2>
             <p className="text-gray-300 text-lg mt-4">
-              Over the past year, I've delved into the world of digital art,
-              mastering tools like Krita and exploring color theory. This
+              Over the past year, I&apos;ve delved into the world of digital
+              art, mastering tools like Krita and exploring color theory. This
               journey has been an exciting blend of creativity and technical
               skill, allowing me to express my artistic vision in new and
               innovative ways.

@@ -33,7 +33,7 @@ export default function Blogs() {
                     />
                     <div className="absolute inset-0 flex items-center justify-center text-white bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-xl">
                       <span className="text-lg font-bold">
-                        The Profound Philosophy of Minecraft's End Poem
+                        The Profound Philosophy of Minecraft&apos;s End Poem
                       </span>
                     </div>
                   </a>
@@ -68,8 +68,8 @@ export default function Blogs() {
             </h2>
             <p className="text-gray-300 text-lg mt-4">
               Occasionally, I find myself diving into the world of writing.
-              Though it's a rare pursuit, it's become a fascinating hobby where
-              I explore various topics and share my thoughts.
+              Though it&apos;s a rare pursuit, it&apos;s become a fascinating
+              hobby where I explore various topics and share my thoughts.
             </p>
           </div>
         </div>

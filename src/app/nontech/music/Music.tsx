@@ -10,8 +10,8 @@ export default function Music() {
               Passion for Music Production
             </h2>
             <p className="text-gray-300 text-lg mt-4">
-              With over 4 years of experience in FL Studio, I've developed a
-              deep passion for music production and keyboard performance. My
+              With over 4 years of experience in FL Studio, I&apos;ve developed
+              a deep passion for music production and keyboard performance. My
               journey in music has been a thrilling exploration of creativity
               and sound.
             </p>
